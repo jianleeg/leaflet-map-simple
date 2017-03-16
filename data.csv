@@ -1,4 +1,4 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Stuttgart hbf,"Arnulf-Klett-Platz 2, 70173 Stuttgart",48.7832,9.1823,"Arnulf-Klett-Platz 2, 70173 Stuttgart",Exact,Google
+Stuttgart DLR,"Pfaffenwaldring 38, 70569 Stuttgart",48.748693,9.101306,"Pfaffenwaldring 38, 70569 Stuttgart",Exact,Google
+Denn's Biomarkt,"Robert-Koch-Straße 2, 70563 Stuttgart",48.729382,9.109602,"Robert-Koch-Straße 2, 70563 Stuttgart",Exact,Google
